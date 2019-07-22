@@ -6,11 +6,6 @@
 
 from .model import Model
 from .scenariooutline import ScenarioOutline
-from .scenarioloop import ScenarioLoop
-from .stepmodel import Step
-from .terrain import world
-
-
 class Feature(Model):
     """
         Represent a Feature
